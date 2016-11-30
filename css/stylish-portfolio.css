@@ -155,6 +155,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
+     
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -162,8 +163,8 @@ hr.small {
 }
 .header video{
     position: absolute;
-    left: 50%;
-    top: 50%;
+    left: 100%;
+    top: 100%;
     min-width: 100%
     min-height: 100%;
     -webkit-transform: translate(-50%,-50%)
