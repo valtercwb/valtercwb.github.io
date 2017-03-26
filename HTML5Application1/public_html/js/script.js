@@ -2,8 +2,8 @@ $(document).ready(function () {
 //set options
 
     var speed = 500; // fade speed
-    var autosSwitch = true; // auot slider options
-    var autoSwitchSpeed = 4000; // auot slider speed
+    var autosSwitch = true; // auto slider options
+    var autoSwitchSpeed = 4000; // auto slider speed
 
     // add initial active class
 
